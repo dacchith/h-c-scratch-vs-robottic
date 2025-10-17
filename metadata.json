@@ -1,0 +1,5 @@
+{
+  "name": "Scratch & Robotics Learning Hub",
+  "description": "An interactive web application to learn Scratch and Robotics concepts with the help of an AI tutor powered by Gemini. Explore lessons, ask questions, and get inspired by various projects.",
+  "requestFramePermissions": []
+}
